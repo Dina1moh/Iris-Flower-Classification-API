@@ -1,0 +1,6 @@
+pytorch==2.0.1+cpu
+fastapi==0.115.6
+uvicorn==0.34.0
+torch
+pydantic
+numpy
